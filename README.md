@@ -11,8 +11,8 @@ This should set like following : ***/your_path/owl-linux-musl-amd64-21.0/bin/owl
      The version should be from 11. 
      Jdk 17 is using.
 # Project Structure
-The project has 14 java-classes. Certain among them are classes for operators and other are implementation using these class-operators.
-The main class is ***RandomLTLFormulaGenerator.java***. The huge part of the implementation is there.
+   The project has 14 java-classes. Certain among them are classes for operators and other are implementation using these class-operators.
+   The main class is ***RandomLTLFormulaGenerator.java***. The huge part of the implementation is there.
 - 
 
 
