@@ -18,8 +18,8 @@ This should set like following : ***/your_path/owl-linux-musl-amd64-21.0/bin/owl
 
 # What is  happening  behind the scenes ?
 This project generates a LTL-Formula then converts it  into a LDL-Formula through a CLI.
- After generating a LTL-Formula, this formula is sent to OWL-Program (running in Debian-Linux). Please feel free to get information about  OWL : [Here](https://owl.model.in.tum.de/) or [OWL-GitHub] 
- (https://github.com/owl-toolkit/owl).
+ After generating a LTL-Formula, this formula is sent to OWL-Program (running in Debian-Linux). Please feel free to get information about  OWL : [Here](https://owl.model.in.tum.de/) or 
+ [OWL-GitHub](https://github.com/owl-toolkit/owl).
 OWL transforms or rewrites or interpretes  the generated LTL-Formula into another LTL-Formula.
 -If the returned OWL-LTL-Formula is 'true' or 'false'  then 
 the original generated LTL-Formula isn't going to be saved neither onto the LTL.txt nor onto the LDL.txt files.
