@@ -76,7 +76,8 @@ For getting help about this command, use the following help-command : ***help ge
 This command must be called before using the 'generate' command,because it allows to specify the list of Atomic Propositions(APs).
 -It has one parameter : AP
 This paramter is for specifying the list of APs.
-There's no default value for this parameter. That means if you enter just 'setting' without the 'AP' parameter, you'll get the following error : 2000E:(pos 0): Missing mandatory option, longnames='AP',                          shortnames=''
+There's no default value for this parameter. That means if you enter just 'setting' without the 'AP' parameter, you'll get the following error : **2000E:(pos 0): Missing mandatory option, longnames='AP',                          shortnames=''**
+
 **Usage :**
 This command must be written as follow :
 ***setting --AP a,b,c***
