@@ -98,7 +98,7 @@ For getting help about this command, use the following help-command : ***help se
 # Resultat
 
 Please take a look at the ***Resulat.png*** file which depicts a result of the command: ***generate 4 3***.
-Resultat : ![Resulat of generate 4 3](Resultat.png)
+![Resulat of generate 4 3](Resultat.png)
 
 # Reference
 
