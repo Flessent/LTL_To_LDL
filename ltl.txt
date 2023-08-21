@@ -1,0 +1,6 @@
+0-Fg
+1-(FG g -> ((t & g ) -> (t U g ) ) )
+2-(v -> (<true*>(v) ) )
+3-F(g U Ft )
+4-t
+5-(((t ) U t ) | G Fg )
