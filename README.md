@@ -98,6 +98,8 @@ For getting help about this command, use the following help-command : ***help se
 # Resultat
 
 Please take a look at the ***Resulat.png*** file which depicts a result of the command: ***generate 4 3***.
+Resultat : ![Resulat of generate 4 3](Resultat.png)
+
 # Reference
 
 The idea of implementation comes from the paper [Linear Temporal Logic and Linear Dynamic Logic on Finite Traces](https://www.cs.rice.edu/~vardi/papers/ijcai13.pdf) Theorem 9, P 5
