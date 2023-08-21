@@ -86,13 +86,18 @@ There's no default value for this parameter. That means if you enter just 'setti
 This command must be written as follow :
 ***setting --AP a,b,c***
 Here we have 3 AP : a, b and c. ***These APs will be save onto the atomic_proposiions.txt file***.
+
+
 **Attention !!!**
+
 
 Don't put space between APs when specifying the list of APs.
 
 For getting help about this command, use the following help-command : ***help setting***
 
+# Resultat
 
+Please take a look at the ***Resulat.png*** file which depicts a result of the command: ***generate 4 3***.
 # Reference
 
 The idea of implementation comes from the paper [Linear Temporal Logic and Linear Dynamic Logic on Finite Traces](https://www.cs.rice.edu/~vardi/papers/ijcai13.pdf) Theorem 9, P 5
