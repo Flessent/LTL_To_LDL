@@ -79,10 +79,12 @@ This paramter is for specifying the list of APs.
 There's no default value for this parameter. That means if you enter just 'setting' without the 'AP' parameter, you'll get the following error : **2000E:(pos 0): Missing mandatory option, longnames='AP',                          shortnames=''**
 
 **Usage :**
+
 This command must be written as follow :
 ***setting --AP a,b,c***
 Here we have 3 AP : a, b and c. ***These APs will be save onto the atomic_proposiions.txt file***.
 **Attention !!!**
+
 Don't put space between APs when specifying the list of APs.
 
 For getting help about this command, use the following help-command : ***help setting***
