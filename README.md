@@ -54,6 +54,9 @@ You can now enter  commands.
 
    
 1. ***generate expansionGrad nberOfFormula***
+Although this session starts with this command, it must be used after the ***setting*** command. If you try to use it before, you w'll get the following error message :
+***Your list of AP is empty. You propably forget to use the option '--AP' of the command 'setting' to set your list of AP. Enter for example :  setting --AP a,b***.
+   
 This command is the main command. It allows to generate LTL-Formula(behind the scenes, theses generated LTL-Formulas are converted into LDL-Formula).
 The command accepts two parameters :
 - ***expansionGrad***
