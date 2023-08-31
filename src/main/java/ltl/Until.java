@@ -30,6 +30,7 @@ public class Until extends LTLFormula{
 		if(this.leftOperand.equals(this.rightOperand)) {
 			return "("+ this.leftOperand.LTLtoLDL()+" )" ;
 			}
-		return "<("+ this.leftOperand.LTLtoLDL() +")*>"+ this.rightOperand.LTLtoLDL();
+		//return "<("+ this.leftOperand.LTLtoLDL() +")*>"+ this.rightOperand.LTLtoLDL();
+		return "<(("+this.leftOperand.LTLtoLDL()+")?;true)*>("+this.rightOperand.LTLtoLDL()+")";
 	}
 }
